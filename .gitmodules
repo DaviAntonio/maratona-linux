@@ -1,41 +1,39 @@
-[submodule "maratona-meta"]
-	path = maratona-meta
-	url = https://github.com/maratona-linux/maratona-meta.git
-	branch = master
-[submodule "maratona-firewall"]
-	path = maratona-firewall
-	url = https://github.com/maratona-linux/maratona-firewall.git
-	branch = master
 [submodule "maratona-background"]
 	path = maratona-background
 	url = https://github.com/maratona-linux/maratona-background.git
-	branch = master
-[submodule "maratona-submission"]
-	path = maratona-submission
-	url = https://github.com/maratona-linux/maratona-submission.git
-	branch = master
-[submodule "maratona-team-tools"]
-	path = maratona-team-tools
-	url = https://gitlab.com/maratona-linux/maratona-team-tools.git
-	branch = master
-[submodule "maratona-usuario-icpc"]
-	path = maratona-usuario-icpc
-	url = https://github.com/maratona-linux/maratona-usuario-icpc.git
-[submodule "maratona-kairos"]
-	path = maratona-kairos
-	url = https://github.com/maratona-linux/maratona-kairos.git
+[submodule "maratona-fancy-tools"]
+	path = maratona-fancy-tools
+	url = https://github.com/maratona-linux/maratona-fancy-tools.git
+[submodule "maratona-firewall"]
+	path = maratona-firewall
+	url = https://github.com/maratona-linux/maratona-firewall.git
+[submodule "maratona-intellij-clion"]
+	path = maratona-intellij-clion
+	url = https://gitlab.com/maratona-linux/maratona-intellij-clion.git
 [submodule "maratona-intellij-idea"]
 	path = maratona-intellij-idea
 	url = https://gitlab.com/maratona-linux/maratona-intellij-idea.git
 [submodule "maratona-intellij-pycharm"]
 	path = maratona-intellij-pycharm
 	url = https://gitlab.com/maratona-linux/maratona-intellij-pycharm.git
+[submodule "maratona-kairos"]
+	path = maratona-kairos
+	url = https://github.com/maratona-linux/maratona-kairos.git
+[submodule "maratona-linux-dev-tools"]
+	path = maratona-linux-dev-tools
+	url = https://github.com/maratona-linux/maratona-linux-dev-tools.git
+[submodule "maratona-meta"]
+	path = maratona-meta
+	url = https://github.com/maratona-linux/maratona-meta.git
+[submodule "maratona-submission"]
+	path = maratona-submission
+	url = https://github.com/maratona-linux/maratona-submission.git
+[submodule "maratona-team-tools"]
+	path = maratona-team-tools
+	url = https://gitlab.com/maratona-linux/maratona-team-tools.git
+[submodule "maratona-usuario-icpc"]
+	path = maratona-usuario-icpc
+	url = https://github.com/maratona-linux/maratona-usuario-icpc.git
 [submodule "maratona-visual-studio-code"]
 	path = maratona-visual-studio-code
 	url = https://gitlab.com/maratona-linux/maratona-visual-studio-code.git
-[submodule "maratona-intellij-clion"]
-	path = maratona-intellij-clion
-	url = https://gitlab.com/maratona-linux/maratona-intellij-clion.git
-[submodule "maratona-fancy-tools"]
-	path = maratona-fancy-tools
-	url = https://github.com/maratona-linux/maratona-fancy-tools.git

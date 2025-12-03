@@ -1,17 +1,19 @@
 # Maratona Linux
 
-Makes all Maratona-Linux components available in their stable versions using git
+Makes all Maratona-Linux components available in their stable versions using Git
 submodules.
 
 ## About
 
 This repository is a super-project which contains all Maratona Linux components
-in the versions used in the Maratona Linux's stable PPA. To clone this
-repository, you must clone it and initialise its submodules. With a recent Git,
-you may just:
+and compilation and testing scripts in the versions used in the Maratona Linux's
+stable PPA.
+
+To clone this repository, you must clone it and initialise its submodules. With
+a recent Git, you may only execute the following command:
 
 ```
-git clone --recurse-submodules https://github.com/maratona-linux/maratona-linux.git
+git clone --recurse-submodules 'https://github.com/maratona-linux/maratona-linux.git'
 ```
 
 If you have already cloned this project, it is advisable to run:
@@ -61,6 +63,7 @@ The following packages are provided in each repository:
 - maratona-intellij-idea
 - maratona-intellij-pycharm
 - maratona-kairos
+- maratona-linux-dev-tools
 - maratona-meta
     - maratona-desktop
     - maratona-conflitos
